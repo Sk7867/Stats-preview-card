@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/Sk7867/Stats-preview-card)
+- Live Site URL: [live site URL](https://sk7867.github.io/Stats-preview-card/index.html)
 
 ## My process
 
@@ -40,5 +40,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Sk7867](https://www.your-site.com)
+- Website - [Sk7867](https://sk7867.github.io/Stats-preview-card/index.html)
 - Frontend Mentor - [@Sk7867](https://www.frontendmentor.io/profile/Sk7867)
